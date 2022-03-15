@@ -1,0 +1,67 @@
+body{
+    background: black;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.jumbotron{
+    background-color: black;
+}
+
+.lien {
+    color:lightgray;
+}
+
+a:hover {
+    color: rgb(146, 0, 0);
+}
+
+.imgAir{
+    width: 530px;
+    height: 350px;
+}
+
+.texte{
+    color: DarkMagenta;
+    
+}
+
+.btn{
+    color: DarkMagenta;
+    background-color: rgb(12, 3, 32);
+}
+
+.menu{
+    border: 1px solid rgb(12, 3, 32);
+    
+}
+
+.menu:hover{
+    color:DarkMagenta;
+    background-color: rgb(0, 0, 0);
+    border: darkmagenta;   
+}
+
+.apple{
+    color: darkmagenta;
+}
+
+.air{
+    width: 450px;
+    height: 250px;
+}
+
+.term{
+    width: 400px;
+    height: 250px;
+}
+
+.h3{
+    color: darkmagenta;
+}
